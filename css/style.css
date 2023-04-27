@@ -346,7 +346,7 @@ th {
   padding: 0;
 }
 
-/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
+
 @media print {
   *,
   *:before,
@@ -41029,9 +41029,7 @@ a.pswp__share--download:hover {
   display: none;
 }
 
-.slick-loading .slick-list {
-  background: #fff url("../images/ajax-loader.gif") center center no-repeat;
-}
+
 
 /* Icons */
 /* Arrows */
@@ -41926,4 +41924,3 @@ fieldset[disabled] .rd-file-picker-btn {
   
 }
 
-/*# sourceMappingURL=style.css.map */
